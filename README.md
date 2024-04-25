@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pagina de notificação, usada para lembrar as mensagens lidas e não lidas.
 
-- [Acesse o projeto finalizado, online](https://github.com/KaueACLima/projeto-discover-dev-links)
+- [Acesse o projeto finalizado, online](https://kaueaclima.github.io/projeto-notifications-page-main/)
 
 - [Acesse o portifólio finalizado](https://github.com/KaueACLima/projeto-notifications-page-main)
 
